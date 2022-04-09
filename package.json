@@ -1,0 +1,23 @@
+{
+  "name": "esm-native",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenakoch122/ajs-25_ESM-native.git"
+  },
+  "author": "elenakoch122",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elenakoch122/ajs-25_ESM-native/issues"
+  },
+  "homepage": "https://github.com/elenakoch122/ajs-25_ESM-native#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
